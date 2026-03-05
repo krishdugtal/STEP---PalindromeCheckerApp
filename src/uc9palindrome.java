@@ -1,5 +1,3 @@
-// UseCase9PalindromeCheckerApp.java
-
 import java.util.Scanner;
 
 public class uc9palindrome {
